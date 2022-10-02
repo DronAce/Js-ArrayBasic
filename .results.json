@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "suites": 0,
+    "tests": 0,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "start": "2022-10-02T18:57:15.517Z",
+    "end": "2022-10-02T18:57:16.583Z",
+    "duration": 1066
+  },
+  "tests": [],
+  "pending": [],
+  "failures": [
+    {
+      "title": "\"before all\" hook in \"{root}\"",
+      "fullTitle": "\"before all\" hook in \"{root}\"",
+      "duration": 1063,
+      "currentRetry": 0,
+      "err": {
+        "stack": "SecurityError: localStorage is not available for opaque origins\n    at Window.get localStorage [as localStorage] (node_modules/mocha-jsdom/node_modules/jsdom/lib/jsdom/browser/Window.js:257:15)\n    at propagateToGlobal (node_modules/mocha-jsdom/index.js:95:14)\n    at Object.done (node_modules/mocha-jsdom/index.js:59:9)\n    at /mnt/d/Code/Js-ArrayBasic/node_modules/mocha-jsdom/node_modules/jsdom/lib/old-api.js:366:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)",
+        "uncaught": true,
+        "multiple": [
+          {
+            "uncaught": true,
+            "multiple": "SecurityError: localStorage is not available for opaque origins"
+          }
+        ]
+      }
+    }
+  ],
+  "passes": []
+}

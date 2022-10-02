@@ -1,0 +1,19 @@
+{
+  "name": "js-arraybasic",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "chai": "^4.2.0",
+    "file-system": "^2.2.2",
+    "jsdom": "^9.0",
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "~1.1.0",
+    "mocha-multi": "^1.0.1",
+    "sinon": "^7.3.1"
+  }
+}
