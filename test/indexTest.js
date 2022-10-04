@@ -1,7 +1,9 @@
+const sinon = require("sinon");
+
 describe('index.js', function () {
-  describe('test', () => {
-    it('is test returning true', () => {
-      expect(true).to.be.true;
+  describe('fruits', () => {
+    it('Fruist has ["Banana", "Orange", "Apple", "Mango"]', () => {
+      expect(fruits).to.have.ordered.members(["Banana", "Orange", "Apple", "Mango"]);
     });
   });
 });
