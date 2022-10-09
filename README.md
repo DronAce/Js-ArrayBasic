@@ -5,12 +5,10 @@ This lesson is designed for the conceptual introduction to the Array Object in J
 
 ## Learning Goals
 - What is an Array 
-- Terminologies
-- Creating An Array
-- Indexing Arrays
-- Accessing Items in an Array
-- Adding an Item to an Array
-- Removing an Item from an Array
+- Creating Arrays
+- Index & Accessing Items in an Array
+- Adding Items to an Array
+- Removing Items from an Array
 - Looping Through an Array
 
 ## Usage
@@ -19,4 +17,12 @@ This lesson is designed for the conceptual introduction to the Array Object in J
 - npm test to check your work.
 
 ## Conclusion
-After going completing this lesson you will be able to create arrays, access items in an array, Loop through an Array and add or remove an item in an Array.
+After completing this lesson you will be able to create arrays, access items in an array, Loop through an Array and add or remove an item in an Array.
+
+## Articles
+- https://www.digitalocean.com/community/tutorials/understanding-arrays-in-javascript
+
+## Docs
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+- https://www.w3schools.com/js/js_arrays.asp
