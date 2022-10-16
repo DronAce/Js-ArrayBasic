@@ -98,22 +98,35 @@ We can loop through the entirety of the array with the for keyword */
 // JavaScript For Loop
 for (let i = 0; i < cars.length; i++) {
     // console.log(cars[i]);
-}
+};
 // The For Of Loop
 for (const car of cars) {
 //   console.log(car);
-}
+};
 
 
 //Exercise 1 //
 // Create an Array called fruits with "Banana", "Orange", "Apple", "Mango"
-
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// Code here
 
 //Exercise 2 //
-// Assign the Mango in fruits array to lastFruit variable 
-
-const lastFruit = fruits[fruits.length - 1];
+// Assign Mango in fruits array to lastFruit variable 
+//Code here
 
 //Exercise 3 //
-// Add Egg to the end of the movies array
+// Add 'Red' to the end of the colors array 
+const colors = ['White', 'Yellow', 'Blue'];
+// Code here
+
+//Exercise 4 //
+// Remove first and last time in the numbers array.
+const numbers = [0, 1, 2, 3, 4, 5];
+// Code here
+
+//Excercise 5 //
+// Given an array of numbers return an array of the square root of numbers
+
+const squareRt = (array) => {
+  // Code here
+
+};
