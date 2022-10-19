@@ -26,3 +26,6 @@ After completing this lesson you will be able to create arrays, access items in 
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 - https://www.w3schools.com/js/js_arrays.asp
+
+## Repo
+- https://github.com/DronAce/Js-ArrayBasic

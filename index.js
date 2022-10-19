@@ -66,7 +66,7 @@ cars[0] = 'Tesla';
 // To add one or more items to the end of an array we can use push()
 cars.push('Honda');
 // console.log('cars :', cars);
-cars.push('dodge');
+cars.push('Dodge');
 // console.log('cars :', cars);
 
 // To add an item to the start of the array, use unshift():
